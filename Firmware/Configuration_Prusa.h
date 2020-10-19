@@ -68,7 +68,7 @@
 #define MANUAL_Z_HOME_POS 0.2
 
 // Travel limits after homing
-#define X_MAX_POS 252
+#define X_MAX_POS 250
 #define X_MIN_POS 0
 #define Y_MAX_POS 213
 #define Y_MIN_POS 0
