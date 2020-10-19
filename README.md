@@ -13,8 +13,7 @@ The firmware for the Original Prusa i3 printers is proudly based on [Marlin 1.0.
 <!--te-->
 
 
-# Build
-## Requirement
+# Requirement
 To use this firmware, please make sure that your printer is installed all below quipment list.
 
  - [Original Prusa MK3S Mainboard (EINSy)](https://shop.prusa3d.com/en/mk3mk3s/925-einsy-rambo-mk3s.html)
