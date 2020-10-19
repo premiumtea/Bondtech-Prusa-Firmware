@@ -28,5 +28,5 @@ To use this firmware, please make sure that your printer is installed all below 
  
  - [Parrot3D upgrade kit for Original Prusa i3 MK3S](https://github.com/narasak/parrot_3d)
 
-## Runing
+# Runing
 `./tests`
