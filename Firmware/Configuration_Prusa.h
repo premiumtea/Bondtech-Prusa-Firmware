@@ -70,10 +70,10 @@
 // Travel limits after homing
 #define X_MAX_POS 250
 #define X_MIN_POS 0
-#define Y_MAX_POS 214
+#define Y_MAX_POS 210
 #define Y_MIN_POS 0
 #define Z_MAX_POS 210
-#define Z_MIN_POS 0
+#define Z_MIN_POS 0.15
 
 // Canceled home position
 #define X_CANCEL_POS 50
@@ -95,7 +95,7 @@
 /**
  * [0,0] steel sheet print area point Y coordinate in bed print area coordinates
  */
-#define SHEET_PRINT_ZERO_REF_Y -2.f
+#define SHEET_PRINT_ZERO_REF_Y 0.f
 
 #define DEFAULT_MAX_FEEDRATE                {200, 200, 12, 120}      // (mm/sec)   max feedrate (M203)
 #define DEFAULT_MAX_FEEDRATE_SILENT         {100, 100, 12, 120}      // (mm/sec)   max feedrate (M203), silent mode
